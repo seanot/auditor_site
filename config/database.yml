@@ -56,5 +56,5 @@ production:
   encoding: unicode
   database: auditor_site_production
   pool: 5
-  username: auditor_site
+  username: rails
   password:
