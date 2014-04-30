@@ -8,8 +8,6 @@ gem 'jquery-rails'
 gem 'turbolinks'
 
 gem 'devise'
-gem 'nested_form'
-gem 'cancancan', '~> 1.7'
 
 gem 'pg'
 
